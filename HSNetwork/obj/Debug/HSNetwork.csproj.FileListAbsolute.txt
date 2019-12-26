@@ -1,0 +1,14 @@
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSNetwork\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSNetwork\bin\Debug\HSNetwork.dll
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSNetwork\bin\Debug\HSNetwork.pdb
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSNetwork\obj\Debug\HSNetwork.dll
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSNetwork\obj\Debug\HSNetwork.pdb
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSNetwork\bin\Debug\HSLog.dll
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSNetwork\bin\Debug\HSLog.pdb
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSNetwork\bin\Debug\HSNetwork.dll
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSNetwork\bin\Debug\HSNetwork.pdb
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSNetwork\bin\Debug\HSLog.dll
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSNetwork\bin\Debug\HSLog.pdb
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSNetwork\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSNetwork\obj\Debug\HSNetwork.dll
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSNetwork\obj\Debug\HSNetwork.pdb

@@ -1,0 +1,12 @@
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSDbOrm\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSDbOrm\bin\Debug\HSDbOrm.dll
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSDbOrm\bin\Debug\HSDbOrm.pdb
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSDbOrm\bin\Debug\System.Data.SQLite.dll
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSDbOrm\obj\Debug\HSDbOrm.dll
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSDbOrm\obj\Debug\HSDbOrm.pdb
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSDbOrm\bin\Debug\HSDbOrm.dll
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSDbOrm\bin\Debug\HSDbOrm.pdb
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSDbOrm\bin\Debug\System.Data.SQLite.dll
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSDbOrm\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSDbOrm\obj\Debug\HSDbOrm.dll
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSDbOrm\obj\Debug\HSDbOrm.pdb

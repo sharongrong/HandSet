@@ -1,0 +1,10 @@
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSLog\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSLog\bin\Debug\HSLog.dll
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSLog\bin\Debug\HSLog.pdb
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSLog\obj\Debug\HSLog.dll
+D:\Works\金沙品鉴酒激活\金沙手持机\jsActivate\HSLog\obj\Debug\HSLog.pdb
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSLog\bin\Debug\HSLog.dll
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSLog\bin\Debug\HSLog.pdb
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSLog\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSLog\obj\Debug\HSLog.dll
+D:\Works\金沙\金沙品鉴酒激活\金沙手持机\jsActivate\HSLog\obj\Debug\HSLog.pdb
